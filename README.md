@@ -3,13 +3,13 @@ The ActivitySim project emerged from a consortium of Metropolitan Planning Organ
 <table style="width:100%">
   <tr>
     <td align="center"><a href="http://www.psrc.org" rel="PSRC"><img src="psrc.png"/></a></td>
-    <td align="center">MTC</td>
-    <td align="center">SFCTA</td>
+    <td align="center"><a href="https://mtc.ca.gov" rel="MTC"><img src="mtc.png"/></a></td>
+    <td align="center"><a href="http://www.sfcta.org" rel="SFCTA"><img src="sfcta.png"/></a></td>
   </tr>
   <tr>
-    <td align="center">SANDAG</td>
-    <td align="center">ARC</td> 
-    <td align="center">AMPO</td>
+    <td align="center"><a href="http://www.sandag.org" rel="SANDAG"><img src="sandag.jpg"/></a></td>
+    <td align="center"><a href="https://atlantaregional.org" rel="ARC"><img src="arc.png"/></a></td> 
+    <td align="center"><a href="http://www.ampo.org" rel="AMPO"><img src="ampo.png"/></a></td>
   </tr>
 </table>
 
