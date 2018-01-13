@@ -1,15 +1,15 @@
 The ActivitySim project emerged from a consortium of Metropolitan Planning Organizations (MPOs) and other transportation planning agencies that wanted to build a shared, open, platform that could be easily adapted to their individual needs, but would share a robust, efficient, and well-maintained common core.
 
-<table style="width:100%" align="center">
+<table style="width:100%">
   <tr>
-    <td>PSRC</td>
-    <td>MTC</td>
-    <td>SFCTA</td>
+    <td align="center"><a href="http://www.psrc.org" rel="PSRC"><img src="psrc.png"/></a></td>
+    <td align="center">MTC</td>
+    <td align="center">SFCTA</td>
   </tr>
   <tr>
-    <td>SANDAG</td>
-    <td>ARC</td> 
-    <td>AMPO</td>
+    <td align="center">SANDAG</td>
+    <td align="center">ARC</td> 
+    <td align="center">AMPO</td>
   </tr>
 </table>
 
