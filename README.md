@@ -16,11 +16,11 @@ The ActivitySim project emerged from a consortium of Metropolitan Planning Organ
 
 ## Getting Started
 
-  - [Software](https://github.com/UDST/activitysim)
-  - [Documentation](https://udst.github.io/activitysim)
-  - [Management](https://github.com/UDST/activitysim/wiki)
-  - [Governance](https://github.com/UDST/activitysim/wiki/Governance)
-  - [Affiliated Packages](https://github.com/UDST/activitysim/wiki/Affiliated-Packages)
+  - [Documentation](https://activitysim.github.io/activitysim)
+  - [Software](https://github.com/activitysim/activitysim)
+  - [Management](https://github.com/activitysim/activitysim/wiki)
+  - [Governance](https://github.com/activitysim/activitysim/wiki/Governance)
+  - [Affiliated Packages](https://github.com/activitysim/activitysim/wiki/Affiliated-Packages)
   
 ActivitySim is administered by the [Association of Metropolitan Planning Organizations](http://www.ampo.org) Research Foundation, a Federal 501(c)(3) organization.
 
