@@ -15,8 +15,8 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
   </tr>
   <tr>
   	<td align="center"><a href="http://semcog.org" rel="SEMCOG"><img src="SEMCOG.jpg"/></a></td> 
-    <td align="center"><a href="https://www.oregon.gov/ODOT" rel="AMPO"><img src="oregondot.png"/></a></td>
-    <td align="center"><a href="https://metrocouncil.org/" rel="AMPO"><img src="metcouncil.png"/></a></td>
+    <td align="center"><a href="https://www.oregon.gov/ODOT" rel="Oregon DOT"><img src="oregondot.png"/></a></td>
+    <td align="center"><a href="https://metrocouncil.org/" rel="Met Council"><img src="metcouncil.png"/></a></td>
     <td align="center"><a href="http://www.ampo.org" rel="AMPO"><img src="ampo.png"/></a></td>
   </tr>
 </table>
