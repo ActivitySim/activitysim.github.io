@@ -23,14 +23,10 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
 
 ## Getting Started
 
-  - [Documentation](https://activitysim.github.io/activitysim)
-  - [Software](https://github.com/activitysim/activitysim)
-  - [Management](https://github.com/activitysim/activitysim/wiki)
-  - [Governance](https://github.com/activitysim/activitysim/wiki/Governance)
-
-## Affiliated Packages
+  - [ActivitySim](https://activitysim.github.io/activitysim)
   - [PopulationSim](https://activitysim.github.io/populationsim)
-  - [Others](https://github.com/activitysim/activitysim/wiki/Affiliated-Packages)
-  
+  - [Software](https://github.com/activitysim)
+  - [Management & Governance](https://github.com/activitysim/activitysim/wiki)
+
 ActivitySim is administered by the [Association of Metropolitan Planning Organizations](http://www.ampo.org) Research Foundation, a Federal 501(c)(3) organization.
 
