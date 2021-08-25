@@ -17,7 +17,8 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
   	<td align="center"><a href="http://semcog.org" rel="SEMCOG"><img src="SEMCOG.jpg"/></a></td> 
     <td align="center"><a href="https://www.oregon.gov/ODOT" rel="Oregon DOT"><img src="oregondot.png"/></a></td>
     <td align="center"><a href="https://metrocouncil.org/" rel="Met Council"><img src="metcouncil.png"/></a></td>
-    <td align="center"><a href="http://www.ampo.org" rel="AMPO"><img src="ampo.png"/></a></td>
+    <td align="center"><a href="https://www.mwcog.org/" rel="MWCOG"><img src="mwcog.png"/></a></td>
+    <td align="center"><a href="https://www.transportation.ohio.gov/" rel="Ohio DOT"><img src="ohiodot.png"/></a></td>
   </tr>
 </table>
 
@@ -28,5 +29,14 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
   - [Software](https://github.com/activitysim)
   - [Management & Governance](https://github.com/activitysim/activitysim/wiki)
 
-ActivitySim is administered by the [Association of Metropolitan Planning Organizations](http://www.ampo.org) Research Foundation, a Federal 501(c)(3) organization.
+<table>
+  <tr>
+    <td align="center">
+        ActivitySim is administered by the Association of Metropolitan Planning Organizations Research Foundation, a Federal 501(c)(3) organization.
+    </td>
+    <td align="center"><a href="http://www.ampo.org" rel="AMPO"><img src="ampo.png"/></a></td>
+  </tr>
+</table>
+
+
 
