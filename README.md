@@ -32,9 +32,11 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
 <table>
   <tr>
     <td align="center">
+        <a href="http://www.ampo.org" rel="AMPO"><img src="ampo.png"/></a>
+    </td>
+    <td align="center">
         ActivitySim is administered by the Association of Metropolitan Planning Organizations Research Foundation, a Federal 501(c)(3) organization.
     </td>
-    <td align="center"><a href="http://www.ampo.org" rel="AMPO"><img src="ampo.png"/></a></td>
   </tr>
 </table>
 
