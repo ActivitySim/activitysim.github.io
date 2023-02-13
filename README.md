@@ -7,18 +7,22 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
 
 <table>
   <tr>
+    <td align="center"><a href="https://research.ampo.org/" rel="AMPO"><img src="ampo-logo.jpg"/></a></td>
     <td align="center"><a href="https://mtc.ca.gov" rel="MTC"><img src="mtc.png"/></a></td>
-    <td align="center"><a href="http://www.sandag.org" rel="SANDAG"><img src="sandag.jpg"/></a></td>
+    <td align="center"><a href="http://www.sandag.org" rel="SANDAG"><img src="sandag-logo.png"/></a></td>
     <td align="center"><a href="https://atlantaregional.org" rel="ARC"><img src="arc.png"/></a></td> 
-    <td align="center"><a href="http://www.sfcta.org" rel="SFCTA"><img src="sfcta.png"/></a></td>
-    <td align="center"><a href="http://www.psrc.org" rel="PSRC"><img src="psrc.png"/></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="http://www.sfcta.org" rel="SFCTA"><img src="sfcta.png"/></a></td>
+    <td align="center"><a href="http://www.psrc.org" rel="PSRC"><img src="psrc.png"/></a></td>
   	<td align="center"><a href="http://semcog.org" rel="SEMCOG"><img src="SEMCOG.jpg"/></a></td> 
     <td align="center"><a href="https://www.oregon.gov/ODOT" rel="Oregon DOT"><img src="oregondot.png"/></a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://metrocouncil.org/" rel="Met Council"><img src="metcouncil.png"/></a></td>
     <td align="center"><a href="https://www.mwcog.org/" rel="MWCOG"><img src="mwcog.png"/></a></td>
     <td align="center"><a href="https://www.transportation.ohio.gov/" rel="Ohio DOT"><img src="ohiodot.png"/></a></td>
+    <td align="center"><a href="https://www.cmap.illinois.gov/" rel="CMAP"><img src="cmap-logo.jpg"/></a></td>
   </tr>
 </table>
 
@@ -34,12 +38,13 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
   - [Metropolitan Council](https://metrocouncil.org/)
   - [Metropolitan Washington Council of Governments](https://www.mwcog.org/)
   - [Ohio Department of Transportation](https://www.transportation.ohio.gov/)
+  - [Chicago Metropolitan Agency for Planning](https://www.cmap.illinois.gov/)
 
 ## Getting Started
 
-  - [ActivitySim](https://activitysim.github.io/activitysim)
-  - [PopulationSim](https://activitysim.github.io/populationsim)
-  - [Software](https://github.com/activitysim)
+  - [ActivitySim Documentation](https://activitysim.github.io/activitysim)
+  - [PopulationSim Documentation](https://activitysim.github.io/populationsim)
+  - [Open Source Software on GitHub](https://github.com/activitysim)
   - [Management & Governance](https://github.com/activitysim/activitysim/wiki)
 
 <table>
