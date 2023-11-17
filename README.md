@@ -24,6 +24,8 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
     <td align="center"><a href="https://www.transportation.ohio.gov/" rel="Ohio DOT"><img src="ohiodot.png"/></a></td>
     <td align="center"><a href="https://www.cmap.illinois.gov/" rel="CMAP"><img src="cmap-logo.jpg"/></a></td>
   </tr>
+</table>
+<table>
   <tr>
     <td align="center"><a href="https://www.mainroads.wa.gov.au/" rel="Main Roads WA"><img src="MainRoadsWesternAustralia.png"/></a></td>
     <td align="center"><a href="https://azmag.gov/" rel="MAG"><img src="MAG logo.png"/></a></td>
