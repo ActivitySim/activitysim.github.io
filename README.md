@@ -24,6 +24,10 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
     <td align="center"><a href="https://www.transportation.ohio.gov/" rel="Ohio DOT"><img src="ohiodot.png"/></a></td>
     <td align="center"><a href="https://www.cmap.illinois.gov/" rel="CMAP"><img src="cmap-logo.jpg"/></a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://www.mainroads.wa.gov.au/" rel="Main Roads WA"><img src="MainRoadsWesternAustralia.png"/></a></td>
+    <td align="center"><a href="https://azmag.gov/" rel="MAG"><img src="MAG logo.png"/></a></td>
+  </tr>
 </table>
 
 ## Consortium Members
@@ -39,6 +43,8 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
   - [Metropolitan Washington Council of Governments](https://www.mwcog.org/)
   - [Ohio Department of Transportation](https://www.transportation.ohio.gov/)
   - [Chicago Metropolitan Agency for Planning](https://www.cmap.illinois.gov/)
+  - [Main Roads Western Australia](https://www.mainroads.wa.gov.au/)
+  - [Maricopa Association of Governments](https://azmag.gov/)
 
 ## Getting Started
 
