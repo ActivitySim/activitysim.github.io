@@ -1,1 +1,29 @@
 <meta http-equiv="refresh" content="0; url=https://research.ampo.org/activitysim/" />
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirect Page</title>
+    <script>
+        window.onload = function() {
+            const params = new URLSearchParams(window.location.search);
+            const query = params.get('q');
+            const base_url = "https://activitysim.github.io/activitysim/v1.3.1/"
+
+            if (query === 'docs') {
+                window.location.href = base_url;
+            } else if (query === 'skims') {
+                window.location.href = base_url + 'users-guide/model_anatomy.html#skims';
+            } else {
+                // This is the default redirect if no other q's match...
+                window.location.href = 'https://research.ampo.org/activitysim';
+            }
+        };
+    </script>
+</head>
+<body>
+    <p>Redirecting...</p>
+</body>
+</html>
