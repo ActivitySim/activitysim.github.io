@@ -1,8 +1,3 @@
----
-redirect_to:
-  - https://research.ampo.org/activitysim
----
-
 ## ActivitySim
 
 The mission of the ActivitySim project is to create and maintain advanced, open-source, activity-based travel behavior modeling software based on best software development practices for distribution at no charge to the public.  
