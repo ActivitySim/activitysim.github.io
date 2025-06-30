@@ -12,10 +12,10 @@ The ActivitySim project is led by a consortium of Metropolitan Planning Organiza
 <table>
   <tr>
     <td align="center">
-        <a href="http://www.ampo.org" rel="AMPO"><img src="ampo.png"/></a>
+        <a href="http://zephyrtransport.org" rel="Zephyr"><img src="Zephyr-logo.png"/></a>
     </td>
     <td align="center">
-        ActivitySim is administered by the Association of Metropolitan Planning Organizations Research Foundation, a Federal 501(c)(3) organization.
+        ActivitySim is administered by the Zephyr Foundation, a Federal 501(c)(3) organization.
     </td>
   </tr>
 </table>
